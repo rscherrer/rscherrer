@@ -9,15 +9,14 @@ Sources of the pictures used in this repo.
 |Mathematica| https://freebiesupply.com/logos/mathematica-logo-2/ |
 |Shell| https://www.deviantart.com/dollarakshay/art/Unix-Terminal-Logo-735161243 |
 |TeX| https://commons.wikimedia.org/wiki/File:My_TEX.png |
+|QtCreator| https://en.m.wikipedia.org/wiki/File:Qt_logo_2016.svg |
+|PyCharm| https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg |
+|RStudio| https://www.rstudio.com/about/logos/ |
+|Sublime| https://worldvectorlogo.com/logo/sublime-text |
+|TeXstudio| https://en.m.wikipedia.org/wiki/File:TeXstudio_Logo.svg |
+|Inkscape| https://icon-icons.com/icon/inkscape/30219 |
+|Gimp| https://www.elharrakfonts.com/2019/01/logo-gimp.html |
+|Ubuntu| https://design.ubuntu.com/brand/ubuntu-logo/ |
+|Linux| https://en.wikipedia.org/wiki/Linux |
 
 <div>Country icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-https://design.ubuntu.com/brand/ubuntu-logo/
-https://en.wikipedia.org/wiki/Linux
-https://en.m.wikipedia.org/wiki/File:Qt_logo_2016.svg
-https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg
-https://www.rstudio.com/about/logos/
-https://en.m.wikipedia.org/wiki/File:TeXstudio_Logo.svg
-https://www.elharrakfonts.com/2019/01/logo-gimp.html
-https://icon-icons.com/icon/inkscape/30219
-https://worldvectorlogo.com/logo/sublime-text
