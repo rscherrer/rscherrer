@@ -9,3 +9,5 @@
 * ![#89e051](https://via.placeholder.com/15/89e051/000000?text=+) Shell
 
 <img src="icons/france.png" width="20" height="20"> <img src="icons/united-kingdom.png" width="20" height="20"> <img src="icons/spain.png" width="20" height="20">
+
+<img src="icons/cpp.png" width="20" height="20">
