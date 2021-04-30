@@ -1,6 +1,6 @@
 ## Favorite languages
 
-<img src="icons/cpp.png" width="20" height="20"> <img src="icons/python.png" width="20" height="20"> <img src="icons/r.png" width="25" height="20"> <img src="icons/matlab.png" width="25" height="20"> <img src="icons/mathematica.png" width="25" height="20"> <img src="icons/bash.png" width="25" height="20"> <img src="icons/tex.png" width="25" height="20">  
+<img src="icons/cpp.png" width="20" height="20"> <img src="icons/python.png" width="20" height="20"> <img src="icons/r.png" width="25" height="20"> <img src="icons/matlab.png" width="25" height="20"> <img src="icons/mathematica.png" width="20" height="20"> <img src="icons/bash.png" width="25" height="20"> <img src="icons/tex.png" width="25" height="20">  
 
 But also
 
