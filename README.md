@@ -10,4 +10,4 @@
 
 <img src="icons/france.png" width="20" height="20"> <img src="icons/united-kingdom.png" width="20" height="20"> <img src="icons/spain.png" width="20" height="20">
 
-<img src="icons/cpp.png" width="20" height="20">
+<img src="icons/cpp.png" width="20" height="20"> <img src="icons/r.png" width="20" height="20"> <img src="icons/python.png" width="20" height="20"> <img src="icons/matlab.png" width="20" height="20"> <img src="icons/mathematica.png" width="20" height="20"> <img src="icons/bash.png" width="20" height="20"> <img src="icons/tex.png" width="20" height="20">
