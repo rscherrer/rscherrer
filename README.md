@@ -11,6 +11,6 @@ Mostly using
 Working from  
 <img src="icons/ubuntu.png" width="20" height="20"> <img src="icons/linux.png" width="20" height="20"> 
 
-Email
-raphael.scherrer@evobio.eu
+Email  
+raphael.scherrer@evobio.eu  
 r.scherrer@rug.nl
