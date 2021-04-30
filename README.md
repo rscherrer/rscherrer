@@ -9,5 +9,3 @@
 * ![#89e051](https://via.placeholder.com/15/89e051/000000?text=+) Shell
 
 <img src="icons/france.png" width="20" height="20"> <img src="icons/united-kingdom.png" width="20" height="20"> <img src="icons/spain.png" width="20" height="20">
- 
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
