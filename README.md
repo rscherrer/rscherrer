@@ -10,4 +10,4 @@ But also
 
 ubuntu linux qtcreator pycharm rstudio texstudio sublime inkscape gimp
 
-<img src="icons/ubuntu.png" width="20" height="20"> <img src="icons/linux.png" width="20" height="20"> <img src="icons/qtcreator.png" width="25" height="20"> <img src="icons/pycharm.png" width="20" height="20"> <img src="icons/rstudio.png" width="20" height="20"> <img src="icons/texstudio.png" width="20" height="20"> <img src="icons/inkscape.png" width="20" height="20"> <img src="icons/gimp.png" width="20" height="20"> <img src="icons/sublime.svg" width="20" height="20">
+<img src="icons/ubuntu.png" width="20" height="20"> <img src="icons/linux.png" width="20" height="20"> <img src="icons/qtcreator.png" width="25" height="20"> <img src="icons/pycharm.png" width="20" height="20"> <img src="icons/rstudio.png" width="20" height="20"> <img src="icons/texstudio.png" width="20" height="20"> <img src="icons/inkscape.png" width="20" height="20"> <img src="icons/gimp.png" width="25" height="20"> <img src="icons/sublime.svg" width="20" height="20">
