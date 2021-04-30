@@ -6,5 +6,5 @@ https://github.com/isocpp/logos
 https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
 https://tex.stackexchange.com/questions/85050/please-improve-my-logo-to-resemble-our-tex-sx-logo
 https://commons.wikimedia.org/wiki/File:R_logo.svg
-https://www.linuxpanda.com/topic/commands/
-
+https://www.pinterest.com/pin/700098704544057283/
+https://www.deviantart.com/dollarakshay/art/Unix-Terminal-Logo-735161243
