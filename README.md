@@ -8,6 +8,6 @@
 * ![#e16737](https://via.placeholder.com/15/e16737/000000?text=+) MATLAB
 * ![#89e051](https://via.placeholder.com/15/89e051/000000?text=+) Shell
 
-![FR](icons/france.png)
+![FR](icons/france.png | width = 5)
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
