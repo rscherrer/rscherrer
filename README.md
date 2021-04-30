@@ -1,6 +1,6 @@
 ## Used languages:
 
-* ![#f34b7d](https://via.placeholder.com/15/f03c15/000000?text=+) C++
+* <img src="icons/cpp.png" width="20" height="20"> C++
 * ![#198CE7](https://via.placeholder.com/15/198CE7/000000?text=+) R
 * ![#3D6117](https://via.placeholder.com/15/3D6117/000000?text=+) TeX
 * ![#A9A9A9](https://via.placeholder.com/15/A9A9A9/000000?text=+) Mathematica
