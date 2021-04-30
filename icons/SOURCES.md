@@ -6,6 +6,5 @@ https://github.com/isocpp/logos
 https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
 https://tex.stackexchange.com/questions/85050/please-improve-my-logo-to-resemble-our-tex-sx-logo
 https://commons.wikimedia.org/wiki/File:R_logo.svg
-https://www.pngegg.com/en/png-pxpgu
-
+https://www.subpng.com/png-iuatfg/
 
