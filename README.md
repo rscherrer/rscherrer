@@ -6,7 +6,7 @@ Speaking
 <img src="icons/france.png" width="20" height="20"> <img src="icons/united-kingdom.png" width="20" height="20"> <img src="icons/spain.png" width="20" height="20">
 
 Based in  
-<img src="icons/netherlands/png" width="20" height="20">
+<img src="icons/netherlands.png" width="20" height="20">
 
 Mostly using  
 <img src="icons/qtcreator.png" width="25" height="20"> <img src="icons/pycharm.png" width="20" height="20"> <img src="icons/rstudio.png" width="20" height="20"> <img src="icons/sublime.svg" width="20" height="20"> <img src="icons/texstudio.png" width="20" height="20"> <img src="icons/inkscape.png" width="20" height="20"> <img src="icons/gimp.png" width="25" height="20"> <img src="icons/google.png" width="25" height="20">
