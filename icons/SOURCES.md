@@ -16,6 +16,7 @@ Sources of the pictures used in this repo.
 |TeXstudio| https://en.m.wikipedia.org/wiki/File:TeXstudio_Logo.svg |
 |Inkscape| https://icon-icons.com/icon/inkscape/30219 |
 |Gimp| https://www.elharrakfonts.com/2019/01/logo-gimp.html |
+|Google| https://www.hiclipart.com/free-transparent-background-png-clipart-duejn/download |
 |Git| https://commons.wikimedia.org/wiki/File:Git_icon.svg |
 |GitHub| https://github.com/logos |
 |Travis| https://secrethub.io/docs/guides/travis-ci/ |
