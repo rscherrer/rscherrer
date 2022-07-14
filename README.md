@@ -29,7 +29,7 @@
 
 ### Full CV
 
-[https://github.com/rscherrer/cv](https://github.com/rscherrer/resume)
+[https://github.com/rscherrer/resume](https://github.com/rscherrer/resume)
 
 ### Email me at  
 
