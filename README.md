@@ -23,9 +23,13 @@
 
 <img src="icons/ubuntu.png" width="20" height="20"> <img src="icons/linux.png" width="20" height="20"> 
 
+### Ex-MEME student
+
+[https://evobio.eu](https://evobio.eu)
+
 ### Find my CV at
 
-https://github.com/rscherrer/cv
+[https://github.com/rscherrer/cv](https://github.com/rscherrer/cv)
 
 ### Email me at  
 
