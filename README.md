@@ -23,6 +23,10 @@
 
 <img src="icons/ubuntu.png" width="20" height="20"> <img src="icons/linux.png" width="20" height="20"> 
 
+### Find my CV at
+
+https://github.com/rscherrer/cv
+
 ### Email me at  
 
 raphael.scherrer@evobio.eu  
