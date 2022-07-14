@@ -33,8 +33,8 @@
 
 ### Email me at  
 
-raphael.scherrer@evobio.eu  
-r.scherrer@rug.nl
+- raphael.scherrer@evobio.eu  
+- r.scherrer@rug.nl
 
 ### Find me on
 
