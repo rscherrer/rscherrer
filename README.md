@@ -1,4 +1,8 @@
-Hey there! I am a PhD candidate in theoretical evolutionary biology at the University of Groningen, in the Netherlnds, where I am now also a temporary lecturer in evolutionary biology. In my doctoral work, I make and use computational models to understand how diversity arises in nature, but I am also interested in a broad range of (empirical and theoretical) topics in evolutionary biology, from color in lizards to the genomics of speciation. 
+Hey there! 
+
+I am a PhD candidate in theoretical evolutionary biology at the University of Groningen, in the Netherlnds. That means I make and play with computational models that describe the evolution of species, to help us understand a bit better how biological diversity is generated in the real world. I run a variety of projects, from reconstructing the history of changes in plumage color in birds-of-paradise to predicting patterns left in the genome when two species form. 
+
+Check out my [dashboard](https://github.com/rscherrer/dashboard) for an overview of my projects!
 
 ### Coding  
 
