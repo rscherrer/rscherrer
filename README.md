@@ -8,6 +8,8 @@ Check out this [dashboard](https://github.com/rscherrer/dashboard) for an overvi
 
 And if you're VIP, you can access the [Supervisor Corner](https://github.com/rscherrer/supervisor-corner) with links to unfinished manuscripts.
 
+Cheers, Raph
+
 <img src="icons/cpp.png" height="50"> <img src="icons/python.png" height="50"> <img src="icons/r.png" height="50"> <img height="50" src="https://cdn.simpleicons.org/wolframmathematica" /> <img src="icons/matlab.png" height="50">
 
 ### Links
