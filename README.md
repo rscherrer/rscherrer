@@ -10,13 +10,6 @@ And if you're VIP, you can access the [Supervisor Corner](https://github.com/rsc
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/r" /> <img height="32" width="32" src="https://cdn.simpleicons.org/wolframmathematica" /> <img src="icons/matlab.png" width="4%" height="4%">
 
-### Coding  
-
-<img src="icons/cpp.png" width="20" height="20"> <img src="icons/python.png" width="20" height="20"> <img src="icons/r.png" width="25" height="20"> <img src="icons/matlab.png" width="25" height="20"> <img src="icons/mathematica.png" width="20" height="20"> <img src="icons/bash.png" width="20" height="20"> <img src="icons/tex.png" width="30" height="20">  
-### Working on  
-
-<img src="icons/ubuntu.png" width="20" height="20"> <img src="icons/linux.png" width="20" height="20"> 
-
 ### Ex-MEME student
 
 [https://evobio.eu](https://evobio.eu)
