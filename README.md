@@ -2,7 +2,9 @@ Hey there!
 
 I am a PhD candidate in **theoretical evolutionary biology** at the University of Groningen, in the Netherlnds. That means I make and play with computational models that describe the evolution of species, to help us understand a bit better how biological diversity is generated in the real world. I run a variety of projects, from reconstructing the history of changes in plumage color in birds-of-paradise to predicting patterns left in the genome when two species form. 
 
-Check out my [dashboard](https://github.com/rscherrer/dashboard) for an overview of my projects!
+Check out this [dashboard](https://github.com/rscherrer/dashboard) for an overview of the most recent projects!
+
+And if you're VIP, you can access the [Supervisor Corner](https://github.com/rscherrer/supervisor-corner) with links to unfinished manuscripts.
 
 ### Coding  
 
