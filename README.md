@@ -1,3 +1,4 @@
+Hey there! I am a PhD candidate in theoretical evolutionary biology at the University of Groningen, in the Netherlnds, where I am now also a temporary lecturer in evolutionary biology. In my doctoral work, I make and use computational models to understand how diversity arises in nature, but I am also interested in a broad range of (empirical and theoretical) topics in evolutionary biology, from color in lizards to the genomics of speciation. 
 
 ### Coding  
 
