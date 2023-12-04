@@ -1,6 +1,6 @@
 Hey there! 
 
-I am a PhD candidate in **theoretical evolutionary biology** at the University of Groningen, in the Netherlands, where I am also temporarily a lecturer in evolutionary biology. 
+I am a PhD candidate in **theoretical evolutionary biology** at the University of Groningen, in the Netherlands, where I am also temporarily a lecturer in evolutionary biology and a scientific programmer. 
 
 That means I make and play with computational models that describe the evolution of species, to help us understand a bit better how biological diversity is generated in the real world. I run a variety of projects, from reconstructing the history of changes in plumage color in birds-of-paradise to predicting patterns left in the genome when two species form. 
 
