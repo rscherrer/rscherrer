@@ -14,7 +14,7 @@ Cheers, Raph
 
 ### Links
 
-* Ex-[MEME](https://evobio.eu) student
+* [MEME](https://evobio.eu) alumnus
 * [Full CV](https://github.com/rscherrer/resume)
 * [University of Groningen page](https://www.rug.nl/staff/r.scherrer/)
 * [ResearchGate](https://www.researchgate.net/profile/Raphael-Scherrer)
