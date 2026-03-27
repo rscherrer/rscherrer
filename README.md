@@ -37,14 +37,14 @@ Cheers, Raph
 
 :handshake: = collaborative work (not main investigator)
 
-### Links
+### Find me on
 
 * [ORCiD](https://orcid.org/0000-0002-1447-7630)
-* [University of Groningen page](https://www.rug.nl/staff/r.scherrer/)
+* [University of Groningen](https://www.rug.nl/staff/r.scherrer/)
 * [ResearchGate](https://www.researchgate.net/profile/Raphael-Scherrer)
 * [LinkedIn](https://www.linkedin.com/in/rapha%C3%ABl-scherrer-5817a3bb/)
 
-### Email me at  
+### Email
 
 * raphael.scherrer@evobio.eu  
 * r.scherrer@rug.nl
