@@ -10,6 +10,8 @@ Cheers, Raph
 
 [<img src="icons/cpp.png" height="50">](https://cplusplus.com) [<img src="icons/python.png" height="50">](https://www.python.org) [<img src="icons/r.png" height="50">](https://r-project.org) [<img height="50" src="https://cdn.simpleicons.org/wolframmathematica" />](https://www.wolfram.com/mathematica/) [<img src="icons/matlab.png" height="50">](https://www.mathworks.com/products/matlab.html)
 
+P.S. Some repositories below might be private.
+
 ### Software
 
 * [archgen](https://github.com/rscherrer/archgen): quantitative genetics dataset simulator
